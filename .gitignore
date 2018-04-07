@@ -36,3 +36,5 @@ coverage.xml
 
 # Mr Developer
 .idea/
+venv
+.vscode

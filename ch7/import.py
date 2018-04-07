@@ -12,10 +12,3 @@ from ch7.t.c7 import *
 
 print(a)
 print(c)
-
-
-
-
-
-
-
